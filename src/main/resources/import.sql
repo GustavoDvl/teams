@@ -66,7 +66,7 @@ INSERT INTO tb_team(name, stadium, color) VALUES ('Al-Nassr', 'Al-Awwal Park', '
 INSERT INTO tb_team(name, stadium, color) VALUES ('Urawa Red Diamonds', 'Saitama Stadium', 'Vermelho');
 INSERT INTO tb_team(name, stadium, color) VALUES ('Gamba Osaka', 'Suita City Stadium', 'Azul e Preto');
 INSERT INTO tb_team(name, stadium, color) VALUES ('Jeonbuk Hyundai Motors', 'Jeonju World Cup Stadium', 'Verde');
-INSERT INTO tb_team(name(name, stadium, color) VALUES ('Al-Ahly', 'Cairo International Stadium', 'Vermelho');
+INSERT INTO tb_team(name, stadium, color) VALUES ('Al-Ahly', 'Cairo International Stadium', 'Vermelho');
 INSERT INTO tb_team(name, stadium, color) VALUES ('Napoli', 'Stadio Diego Armando Maradona', 'Azul Claro');
 INSERT INTO tb_team(name, stadium, color) VALUES ('Lazio', 'Stadio Olimpico', 'Azul Claro e Branco');
 INSERT INTO tb_team(name, stadium, color) VALUES ('Roma', 'Stadio Olimpico', 'Amarelo e Vermelho');
